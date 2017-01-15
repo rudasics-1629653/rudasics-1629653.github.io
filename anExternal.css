@@ -1,0 +1,24 @@
+.entry {
+	border-radius: 20px;
+	border-width: 2px;
+	margin-bottom: 1px;
+	margin-top: 1px;
+	padding: 1em;
+	background-color: red;
+	border-style: dashed;
+	
+}
+
+header {
+	float: top;
+	max-height:30px;
+	margin-bottom: 40px;
+	padding: 1em
+}
+
+.head_look {
+	background-color: blue;
+	border-radius:5;
+	border-style: solid;
+	margin-bottom: 15px;
+}
